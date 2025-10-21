@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi — I'm Omotola 👋
+Data Analyst | Power BI & SQL Expert | Converting Information for Startegic Advantage through Actionable Insights
+
+**Highlights**
+- 📊 Built an interactive sales dashboard that helped reduce churn by 12%.
+- 🧰 Tools: MySQL, MSSQL, Excel, Power BI.
+<!-- 🔗 Portfolio site: https://yourname.github.io-->
+
+<!--
+**Pinned projects**
+- Project-A (link) — Short 1-line TL;DR
+- Project-B (link) — Short 1-line TL;DR
+-->
+**Contact**
+- Email: omotolaoladokun95@gmail.com
+- LinkedIn: linkedin.com/in/omotola-oladokun
+
